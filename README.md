@@ -1,5 +1,5 @@
 TouchWidget_HowTo
-=============
+=================
 
 PatternAgents TouchWidget_HowTo - Control your World!
 
